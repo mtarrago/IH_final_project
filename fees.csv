@@ -1,0 +1,530 @@
+,0,entrance_fee_type,cost
+0,acad,Timed Entry Reservation - Location,6.00
+1,acad,Entrance - Private Vehicle,35.00
+2,acad,Entrance - Motorcycle,30.00
+3,acad,Entrance - Per Person,20.00
+4,acad,Entrance - Education/Academic Groups,0.00
+5,acad,Entrance - Non-commercial Groups,0.00
+6,acad,Commercial Entrance - Per Person,0.00
+7,adam,Timed Entry Reservation - Location,1.00
+8,adam,Entrance - Per Person,15.00
+9,anti,Entrance - Private Vehicle,20.00
+10,anti,Entrance - Per Person,10.00
+11,anti,Entrance - Motorcycle,15.00
+12,anti,Commercial Entrance - Motor Coach,100.00
+13,anti,Commercial Entrance - Mini-bus,40.00
+14,anti,Commercial Entrance - Sedan,25.00
+15,anti,Entrance - Education/Academic Groups,0.00
+16,arch,Timed Entry Reservation - Park,2.00
+17,arch,Entrance - Private Vehicle,30.00
+18,arch,Entrance - Motorcycle,25.00
+19,arch,Entrance - Per Person,15.00
+20,asis,Entrance - Private Vehicle,25.00
+21,asis,Entrance - Motorcycle,20.00
+22,asis,Entrance - Per Person,0.00
+23,badl,Entrance - Private Vehicle,30.00
+24,badl,Entrance - Motorcycle,25.00
+25,badl,Entrance - Per Person,15.00
+26,badl,Commercial Entrance - Sedan,25.00
+27,badl,Commercial Entrance - Van,50.00
+28,badl,Commercial Entrance - Mini-bus,60.00
+29,badl,Commercial Entrance - Motor Coach,150.00
+30,band,Entrance - Private Vehicle,25.00
+31,band,Entrance - Motorcycle,20.00
+32,band,Entrance - Per Person,15.00
+33,beol,Entrance - Per Person,10.00
+34,beol,Entrance - Education/Academic Groups,0.00
+35,bibe,Entrance - Private Vehicle,30.00
+36,bibe,Entrance - Motorcycle,25.00
+37,bibe,Entrance - Per Person,15.00
+38,bibe,Commercial Entrance - Motor Coach,200.00
+39,bibe,Entrance - Non-commercial Groups,30.00
+40,bibe,Commercial Entrance - Mini-bus,100.00
+41,bibe,Commercial Entrance - Sedan,25.00
+42,blca,Entrance - Private Vehicle,30.00
+43,blca,Entrance - Motorcycle,25.00
+44,blca,Entrance - Per Person,15.00
+45,blca,Commercial Entrance - Sedan,25.00
+46,blca,Commercial Entrance - Van,40.00
+47,blca,Commercial Entrance - Mini-bus,40.00
+48,blca,Commercial Entrance - Motor Coach,100.00
+49,blca,Entrance - Non-commercial Groups,30.00
+50,blca,Entrance - Non-commercial Groups,15.00
+51,brca,Entrance - Private Vehicle,35.00
+52,brca,Entrance - Motorcycle,30.00
+53,brca,Entrance - Per Person,20.00
+54,brca,Commercial Entrance - Sedan,50.00
+55,brca,Commercial Entrance - Van,50.00
+56,brca,Commercial Entrance - Mini-bus,60.00
+57,brca,Commercial Entrance - Motor Coach,150.00
+58,cabr,Entrance - Private Vehicle,20.00
+59,cabr,Entrance - Motorcycle,15.00
+60,cabr,Entrance - Per Person,10.00
+61,cabr,Commercial Entrance - Sedan,30.00
+62,cabr,Commercial Entrance - Van,45.00
+63,cabr,Commercial Entrance - Mini-bus,45.00
+64,cabr,Commercial Entrance - Motor Coach,100.00
+65,cabr,Entrance - Non-commercial Groups,20.00
+66,caco,Entrance - Private Vehicle,25.00
+67,caco,Entrance - Motorcycle,20.00
+68,caco,Entrance - Per Person,15.00
+69,cana,Entrance - Private Vehicle,25.00
+70,cany,Entrance - Private Vehicle,30.00
+71,cany,Entrance - Motorcycle,25.00
+72,cany,Entrance - Per Person,15.00
+73,care,Entrance - Private Vehicle,20.00
+74,care,Entrance - Motorcycle,15.00
+75,care,Entrance - Per Person,10.00
+76,care,Commercial Entrance - Sedan,30.00
+77,care,Commercial Entrance - Van,40.00
+78,care,Commercial Entrance - Mini-bus,40.00
+79,care,Commercial Entrance - Motor Coach,100.00
+80,casa,Entrance - Per Person,15.00
+81,cave,Timed Entry Reservation - Location,1.00
+82,cave,Entrance - Per Person,15.00
+83,cavo,Entrance - Private Vehicle,20.00
+84,cavo,Entrance - Motorcycle,15.00
+85,cavo,Entrance - Per Person,10.00
+86,cavo,Entrance - Non-commercial Groups,10.00
+87,cavo,Entrance - Education/Academic Groups,0.00
+88,cavo,Commercial Entrance - Sedan,25.00
+89,cavo,Commercial Entrance - Van,40.00
+90,cavo,Commercial Entrance - Mini-bus,40.00
+91,cavo,Commercial Entrance - Motor Coach,100.00
+92,cebr,Entrance - Per Person,10.00
+93,cebr,Commercial Entrance - Per Person,10.00
+94,chat,Entrance - Per Person,5.00
+95,chat,Entrance - Private Vehicle,5.00
+96,chat,Entrance - Motorcycle,5.00
+97,chch,Entrance - Per Person,10.00
+98,chcu,Entrance - Private Vehicle,25.00
+99,chcu,Entrance - Per Person,15.00
+100,chcu,Entrance - Motorcycle,20.00
+101,chcu,Commercial Entrance - Van,40.00
+102,chcu,Commercial Entrance - Motor Coach,100.00
+103,chcu,Entrance - Non-commercial Groups,25.00
+104,chcu,Entrance - Education/Academic Groups,0.00
+105,chcu,Commercial Entrance - Sedan,40.00
+106,chcu,Commercial Entrance - Mini-bus,40.00
+107,choh,Entrance - Private Vehicle,20.00
+108,choh,Entrance - Motorcycle,15.00
+109,choh,Entrance - Per Person,10.00
+110,choh,Entrance - Education/Academic Groups,0.00
+111,choh,Entrance - Non-commercial Groups,20.00
+112,choh,Commercial Entrance - Motor Coach,100.00
+113,choh,Commercial Entrance - Van,40.00
+114,choh,Commercial Entrance - Mini-bus,40.00
+115,choh,Commercial Entrance - Sedan,25.00
+116,chri,Entrance - Per Person,10.00
+117,colm,Entrance - Private Vehicle,25.00
+118,colm,Entrance - Motorcycle,20.00
+119,colm,Entrance - Per Person,15.00
+120,colm,Entrance - Non-commercial Groups,15.00
+121,colm,Entrance - Education/Academic Groups,0.00
+122,colm,Commercial Entrance - Sedan,25.00
+123,colm,Commercial Entrance - Van,40.00
+124,colm,Commercial Entrance - Mini-bus,40.00
+125,colm,Commercial Entrance - Motor Coach,100.00
+126,colo,Entrance - Per Person,15.00
+127,crla,Entrance - Private Vehicle,30.00
+128,crla,Entrance - Private Vehicle,20.00
+129,crla,Entrance - Motorcycle,25.00
+130,crla,Entrance - Motorcycle,15.00
+131,crla,Entrance - Per Person,15.00
+132,crla,Entrance - Snowmobile,15.00
+133,crla,Commercial Entrance - Sedan,25.00
+134,crla,Commercial Entrance - Van,75.00
+135,crla,Commercial Entrance - Mini-bus,100.00
+136,crla,Commercial Entrance - Motor Coach,200.00
+137,crmo,Entrance - Private Vehicle,20.00
+138,crmo,Entrance - Motorcycle,15.00
+139,crmo,Commercial Entrance - Sedan,25.00
+140,crmo,Entrance - Per Person,10.00
+141,crmo,Entrance - Education/Academic Groups,0.00
+142,crmo,Commercial Entrance - Motor Coach,100.00
+143,crmo,Commercial Entrance - Van,40.00
+144,cuis,Entrance - Per Person,15.00
+145,dena,Entrance - Per Person,15.00
+146,deto,Entrance - Private Vehicle,25.00
+147,deto,Entrance - Motorcycle,20.00
+148,deto,Entrance - Per Person,15.00
+149,deto,Commercial Entrance - Sedan,25.00
+150,deto,Commercial Entrance - Van,40.00
+151,deto,Commercial Entrance - Mini-bus,40.00
+152,deto,Commercial Entrance - Motor Coach,100.00
+153,deva,Entrance - Private Vehicle,30.00
+154,deva,Entrance - Motorcycle,25.00
+155,deva,Entrance - Per Person,15.00
+156,deva,Commercial Entrance - Per Person,10.00
+157,deva,Commercial Entrance - Sedan,25.00
+158,deva,Commercial Entrance - Van,75.00
+159,deva,Commercial Entrance - Mini-bus,100.00
+160,deva,Commercial Entrance - Motor Coach,200.00
+161,deva,Entrance - Non-commercial Groups,15.00
+162,deva,Entrance - Education/Academic Groups,0.00
+163,dewa,Entrance - Private Vehicle,10.00
+164,dino,Entrance - Private Vehicle,25.00
+165,dino,Entrance - Motorcycle,20.00
+166,dino,Entrance - Per Person,15.00
+167,dino,Commercial Entrance - Van,50.00
+168,dino,Commercial Entrance - Mini-bus,60.00
+169,dino,Commercial Entrance - Motor Coach,150.00
+170,dino,Entrance - Non-commercial Groups,25.00
+171,dino,Entrance - Education/Academic Groups,0.00
+172,dino,Commercial Entrance - Sedan,25.00
+173,dino,Commercial Entrance - Per Person,15.00
+174,drto,Entrance - Per Person,15.00
+175,edis,Timed Entry Reservation - Location,1.00
+176,edis,Entrance - Education/Academic Groups,10.00
+177,edis,Entrance - Per Person,15.00
+178,elis,Timed Entry Reservation - Location,0.00
+179,elis,Timed Entry Reservation - Location,0.00
+180,elis,Timed Entry Reservation - Location,0.00
+181,ever,Entrance - Private Vehicle,35.00
+182,ever,Entrance - Motorcycle,30.00
+183,ever,Entrance - Per Person,20.00
+184,ever,Entrance - Education/Academic Groups,0.00
+185,ever,Commercial Entrance - Motor Coach,300.00
+186,ever,Commercial Entrance - Mini-bus,200.00
+187,ever,Commercial Entrance - Van,125.00
+188,flfo,Entrance - Per Person,10.00
+189,foda,Entrance - Per Person,10.00
+190,foda,Entrance - Motorcycle,15.00
+191,foda,Entrance - Private Vehicle,20.00
+192,foda,Commercial Entrance - Sedan,20.00
+193,foda,Commercial Entrance - Van,40.00
+194,foda,Commercial Entrance - Mini-bus,40.00
+195,foda,Commercial Entrance - Motor Coach,100.00
+196,foma,Timed Entry Reservation - Location,0.00
+197,fomc,Entrance - Per Person,15.00
+198,fomc,Entrance - Non-commercial Groups,15.00
+199,fomc,Commercial Entrance - Per Person,15.00
+200,fopu,Entrance - Per Person,10.00
+201,fopu,Commercial Entrance - Per Person,10.00
+202,fosu,Entrance - Per Person,10.00
+203,foth,Timed Entry Reservation - Location,3.50
+204,fova,Entrance - Per Person,10.00
+205,frdo,Timed Entry Reservation - Location,1.00
+206,glac,Entrance - Private Vehicle,35.00
+207,glac,Entrance - Per Person,20.00
+208,glac,Entrance - Motorcycle,30.00
+209,glac,Commercial Entrance - Sedan,25.00
+210,glac,Commercial Entrance - Van,75.00
+211,glac,Commercial Entrance - Mini-bus,100.00
+212,glac,Commercial Entrance - Motor Coach,200.00
+213,glca,Entrance - Private Vehicle,30.00
+214,glca,Entrance - Motorcycle,25.00
+215,glca,Entrance - Per Person,15.00
+216,glca,Commercial Entrance - Van,40.00
+217,glca,Commercial Entrance - Mini-bus,40.00
+218,glca,Commercial Entrance - Motor Coach,100.00
+219,glca,Entrance - Education/Academic Groups,0.00
+220,gosp,Entrance - Private Vehicle,20.00
+221,gosp,Entrance - Motorcycle,15.00
+222,gosp,Entrance - Per Person,10.00
+223,grca,Entrance - Private Vehicle,35.00
+224,grca,Entrance - Motorcycle,30.00
+225,grca,Entrance - Per Person,20.00
+226,grfa,Entrance - Private Vehicle,20.00
+227,grfa,Entrance - Motorcycle,15.00
+228,grfa,Entrance - Per Person,10.00
+229,grfa,Entrance - Non-commercial Groups,100.00
+230,grfa,Commercial Entrance - Van,40.00
+231,grfa,Commercial Entrance - Mini-bus,40.00
+232,grfa,Commercial Entrance - Sedan,25.00
+233,grfa,Commercial Entrance - Motor Coach,100.00
+234,grsa,Entrance - Private Vehicle,25.00
+235,grsa,Entrance - Non-commercial Groups,15.00
+236,grsa,Entrance - Motorcycle,20.00
+237,grsa,Commercial Entrance - Sedan,25.00
+238,grsa,Commercial Entrance - Van,40.00
+239,grsa,Commercial Entrance - Mini-bus,40.00
+240,grsa,Commercial Entrance - Motor Coach,100.00
+241,grte,Entrance - Private Vehicle,35.00
+242,grte,Entrance - Motorcycle,30.00
+243,grte,Entrance - Per Person,20.00
+244,grte,Commercial Entrance - Sedan,25.00
+245,grte,Commercial Entrance - Van,125.00
+246,grte,Commercial Entrance - Mini-bus,200.00
+247,grte,Commercial Entrance - Motor Coach,300.00
+248,grte,Entrance - Education/Academic Groups,0.00
+249,guis,Entrance - Private Vehicle,25.00
+250,guis,Entrance - Motorcycle,20.00
+251,guis,Entrance - Per Person,15.00
+252,gumo,Entrance - Per Person,10.00
+253,gumo,Entrance - Education/Academic Groups,0.00
+254,hafe,Entrance - Private Vehicle,20.00
+255,hafe,Entrance - Motorcycle,15.00
+256,hafe,Entrance - Per Person,10.00
+257,hale,Entrance - Motorcycle,25.00
+258,hale,Entrance - Private Vehicle,30.00
+259,hale,Entrance - Per Person,15.00
+260,hale,Commercial Entrance - Per Person,15.00
+261,hale,Commercial Entrance - Sedan,30.00
+262,hale,Commercial Entrance - Van,45.00
+263,hale,Timed Entry Reservation - Park & Location,1.00
+264,havo,Entrance - Private Vehicle,30.00
+265,havo,Entrance - Motorcycle,25.00
+266,havo,Entrance - Per Person,15.00
+267,havo,Commercial Entrance - Sedan,25.00
+268,havo,Commercial Entrance - Mini-bus,100.00
+269,havo,Commercial Entrance - Motor Coach,200.00
+270,havo,Commercial Entrance - Per Person,15.00
+271,havo,Commercial Entrance - Van,75.00
+272,hofr,Entrance - Per Person,10.00
+273,hove,Entrance - Private Vehicle,20.00
+274,hove,Entrance - Motorcycle,15.00
+275,hove,Entrance - Per Person,10.00
+276,inde,Timed Entry Reservation - Location,1.00
+277,indu,Entrance - Motorcycle,20.00
+278,indu,Entrance - Private Vehicle,25.00
+279,indu,Entrance - Per Person,15.00
+280,indu,Commercial Entrance - Sedan,25.00
+281,indu,Commercial Entrance - Van,40.00
+282,indu,Commercial Entrance - Mini-bus,40.00
+283,indu,Commercial Entrance - Motor Coach,100.00
+284,isro,Entrance - Per Person,7.00
+285,jame,Entrance - Per Person,30.00
+286,jeff,Timed Entry Reservation - Location,19.00
+287,jotr,Entrance - Private Vehicle,30.00
+288,jotr,Entrance - Motorcycle,25.00
+289,jotr,Entrance - Per Person,15.00
+290,kemo,Entrance - Private Vehicle,5.00
+291,kemo,Entrance - Per Person,5.00
+292,labe,Entrance - Private Vehicle,25.00
+293,labe,Entrance - Motorcycle,20.00
+294,labe,Entrance - Per Person,15.00
+295,lake,Entrance - Private Vehicle,25.00
+296,lake,Entrance - Motorcycle,20.00
+297,lake,Entrance - Per Person,15.00
+298,lake,Entrance - Non-commercial Groups,15.00
+299,lake,Entrance - Education/Academic Groups,0.00
+300,lake,Commercial Entrance - Sedan,25.00
+301,lake,Commercial Entrance - Van,50.00
+302,lake,Commercial Entrance - Mini-bus,60.00
+303,lake,Commercial Entrance - Motor Coach,150.00
+304,lavo,Entrance - Private Vehicle,30.00
+305,lavo,Entrance - Private Vehicle,10.00
+306,lavo,Entrance - Motorcycle,25.00
+307,lavo,Entrance - Per Person,15.00
+308,lavo,Entrance - Education/Academic Groups,0.00
+309,lavo,Commercial Entrance - Sedan,25.00
+310,lavo,Commercial Entrance - Van,50.00
+311,lavo,Commercial Entrance - Mini-bus,60.00
+312,lavo,Commercial Entrance - Motor Coach,150.00
+313,lavo,Entrance - Motorcycle,10.00
+314,lavo,Entrance - Per Person,10.00
+315,lewi,Entrance - Per Person,10.00
+316,libi,Entrance - Private Vehicle,25.00
+317,libi,Entrance - Motorcycle,20.00
+318,libi,Entrance - Per Person,15.00
+319,libi,Commercial Entrance - Sedan,25.00
+320,libi,Commercial Entrance - Van,40.00
+321,libi,Commercial Entrance - Mini-bus,40.00
+322,libi,Commercial Entrance - Motor Coach,100.00
+323,meve,Entrance - Private Vehicle,30.00
+324,meve,Entrance - Motorcycle,25.00
+325,meve,Entrance - Per Person,15.00
+326,meve,Entrance - Private Vehicle,20.00
+327,meve,Entrance - Per Person,15.00
+328,meve,Entrance - Motorcycle,15.00
+329,meve,Commercial Entrance - Motor Coach,25.00
+330,moca,Entrance - Per Person,10.00
+331,mora,Entrance - Private Vehicle,30.00
+332,mora,Entrance - Per Person,15.00
+333,mora,Entrance - Motorcycle,25.00
+334,mora,Commercial Entrance - Sedan,30.00
+335,mora,Commercial Entrance - Van,75.00
+336,mora,Commercial Entrance - Mini-bus,100.00
+337,mora,Commercial Entrance - Motor Coach,200.00
+338,mora,Timed Entry Reservation - Location,2.00
+339,mora,Timed Entry Reservation - Location,2.00
+340,nabr,Entrance - Private Vehicle,20.00
+341,nabr,Entrance - Motorcycle,15.00
+342,nabr,Entrance - Per Person,10.00
+343,olym,Entrance - Private Vehicle,30.00
+344,olym,Entrance - Motorcycle,25.00
+345,olym,Entrance - Per Person,15.00
+346,olym,Commercial Entrance - Van,75.00
+347,olym,Commercial Entrance - Mini-bus,100.00
+348,olym,Commercial Entrance - Motor Coach,200.00
+349,orpi,Entrance - Private Vehicle,25.00
+350,orpi,Entrance - Motorcycle,20.00
+351,orpi,Entrance - Per Person,15.00
+352,pais,Commercial Entrance - Sedan,25.00
+353,pais,Commercial Entrance - Van,40.00
+354,pais,Commercial Entrance - Mini-bus,40.00
+355,pais,Commercial Entrance - Motor Coach,100.00
+356,pais,Entrance - Private Vehicle,25.00
+357,pais,Entrance - Motorcycle,20.00
+358,pais,Entrance - Per Person,15.00
+359,pais,Entrance - Non-commercial Groups,15.00
+360,pefo,Entrance - Private Vehicle,25.00
+361,pefo,Entrance - Per Person,15.00
+362,pefo,Entrance - Motorcycle,20.00
+363,pefo,Commercial Entrance - Sedan,25.00
+364,pefo,Commercial Entrance - Per Person,10.00
+365,pefo,Commercial Entrance - Van,50.00
+366,pefo,Commercial Entrance - Mini-bus,60.00
+367,pefo,Commercial Entrance - Motor Coach,150.00
+368,pefo,Entrance - Non-commercial Groups,15.00
+369,pevi,Timed Entry Reservation - Location,10.00
+370,pinn,Entrance - Private Vehicle,30.00
+371,pinn,Entrance - Motorcycle,25.00
+372,pinn,Entrance - Per Person,15.00
+373,pinn,Entrance - Non-commercial Groups,15.00
+374,pinn,Commercial Entrance - Sedan,30.00
+375,pinn,Commercial Entrance - Van,40.00
+376,pinn,Commercial Entrance - Mini-bus,40.00
+377,pinn,Commercial Entrance - Motor Coach,100.00
+378,pinn,Entrance - Education/Academic Groups,0.00
+379,piro,Entrance - Private Vehicle,25.00
+380,piro,Entrance - Motorcycle,20.00
+381,piro,Entrance - Snowmobile,15.00
+382,piro,Entrance - Per Person,15.00
+383,piro,Commercial Entrance - Sedan,25.00
+384,piro,Commercial Entrance - Van,40.00
+385,piro,Commercial Entrance - Mini-bus,40.00
+386,piro,Commercial Entrance - Motor Coach,100.00
+387,pisp,Entrance - Per Person,10.00
+388,prwi,Entrance - Private Vehicle,20.00
+389,prwi,Entrance - Motorcycle,15.00
+390,prwi,Entrance - Per Person,10.00
+391,puho,Entrance - Private Vehicle,20.00
+392,puho,Entrance - Motorcycle,15.00
+393,puho,Entrance - Per Person,10.00
+394,puho,Entrance - Education/Academic Groups,0.00
+395,puho,Entrance - Non-commercial Groups,10.00
+396,puho,Commercial Entrance - Per Person,10.00
+397,rigr,Entrance - Private Vehicle,30.00
+398,romo,Entrance - Private Vehicle,30.00
+399,romo,Entrance - Private Vehicle,35.00
+400,romo,Entrance - Per Person,15.00
+401,romo,Entrance - Motorcycle,25.00
+402,romo,Entrance - Motorcycle,30.00
+403,romo,Entrance - Per Person,20.00
+404,safr,Entrance - Per Person,15.00
+405,saga,Entrance - Per Person,10.00
+406,sagu,Entrance - Private Vehicle,25.00
+407,sagu,Entrance - Per Person,15.00
+408,sagu,Entrance - Motorcycle,20.00
+409,sahi,Timed Entry Reservation - Location,10.00
+410,saju,Entrance - Per Person,10.00
+411,seki,Entrance - Private Vehicle,35.00
+412,seki,Entrance - Per Person,20.00
+413,seki,Entrance - Motorcycle,30.00
+414,seki,Entrance - Non-commercial Groups,20.00
+415,seki,Commercial Entrance - Van,75.00
+416,seki,Commercial Entrance - Mini-bus,100.00
+417,seki,Commercial Entrance - Motor Coach,200.00
+418,seki,Commercial Entrance - Sedan,25.00
+419,seki,Commercial Entrance - Per Person,20.00
+420,shen,Entrance - Private Vehicle,30.00
+421,shen,Entrance - Motorcycle,25.00
+422,shen,Entrance - Per Person,15.00
+423,shen,Commercial Entrance - Sedan,25.00
+424,shen,Commercial Entrance - Per Person,10.00
+425,shen,Commercial Entrance - Van,75.00
+426,shen,Commercial Entrance - Mini-bus,100.00
+427,shen,Commercial Entrance - Motor Coach,200.00
+428,shen,Entrance - Education/Academic Groups,0.00
+429,shen,Entrance - Non-commercial Groups,15.00
+430,slbe,Entrance - Private Vehicle,25.00
+431,slbe,Entrance - Motorcycle,20.00
+432,slbe,Entrance - Per Person,15.00
+433,slbe,Entrance - Education/Academic Groups,0.00
+434,slbe,Commercial Entrance - Sedan,25.00
+435,slbe,Commercial Entrance - Van,40.00
+436,slbe,Commercial Entrance - Mini-bus,40.00
+437,slbe,Commercial Entrance - Motor Coach,100.00
+438,stli,Timed Entry Reservation - Location,0.00
+439,stli,Timed Entry Reservation - Location,0.00
+440,stli,Timed Entry Reservation - Location,0.00
+441,sucr,Entrance - Private Vehicle,25.00
+442,sucr,Entrance - Motorcycle,20.00
+443,sucr,Entrance - Per Person,15.00
+444,sucr,Entrance - Non-commercial Groups,15.00
+445,sucr,Entrance - Education/Academic Groups,0.00
+446,sucr,Commercial Entrance - Sedan,28.00
+447,sucr,Commercial Entrance - Van,40.00
+448,sucr,Commercial Entrance - Motor Coach,100.00
+449,thro,Entrance - Private Vehicle,30.00
+450,thro,Entrance - Motorcycle,25.00
+451,thro,Entrance - Per Person,15.00
+452,tica,Timed Entry Reservation - Location,12.00
+453,tica,Timed Entry Reservation - Location,17.00
+454,tica,Timed Entry Reservation - Location,22.00
+455,tont,Entrance - Per Person,10.00
+456,tont,Entrance - Education/Academic Groups,0.00
+457,tuma,Entrance - Per Person,10.00
+458,tuma,Entrance - Education/Academic Groups,0.00
+459,tuzi,Entrance - Per Person,10.00
+460,vama,Entrance - Per Person,15.00
+461,vick,Entrance - Private Vehicle,20.00
+462,vick,Entrance - Motorcycle,15.00
+463,vick,Entrance - Per Person,10.00
+464,waca,Entrance - Private Vehicle,25.00
+465,waca,Entrance - Motorcycle,20.00
+466,waca,Entrance - Per Person,15.00
+467,waca,Entrance - Non-commercial Groups,15.00
+468,waca,Entrance - Education/Academic Groups,0.00
+469,waca,Commercial Entrance - Sedan,28.00
+470,waca,Commercial Entrance - Van,40.00
+471,waca,Commercial Entrance - Motor Coach,100.00
+472,wamo,Timed Entry Reservation - Park,1.00
+473,whis,Entrance - Per Person,15.00
+474,whis,Entrance - Private Vehicle,25.00
+475,whis,Entrance - Motorcycle,20.00
+476,whsa,Entrance - Private Vehicle,25.00
+477,whsa,Entrance - Per Person,15.00
+478,whsa,Entrance - Motorcycle,20.00
+479,whsa,Commercial Entrance - Van,50.00
+480,whsa,Commercial Entrance - Mini-bus,60.00
+481,whsa,Commercial Entrance - Motor Coach,150.00
+482,wrbr,Entrance - Per Person,10.00
+483,wrbr,Commercial Entrance - Sedan,25.00
+484,wrbr,Commercial Entrance - Van,40.00
+485,wrbr,Commercial Entrance - Mini-bus,40.00
+486,wrbr,Commercial Entrance - Motor Coach,100.00
+487,wrbr,Entrance - Education/Academic Groups,0.00
+488,wupa,Entrance - Private Vehicle,25.00
+489,wupa,Entrance - Motorcycle,20.00
+490,wupa,Entrance - Per Person,15.00
+491,wupa,Entrance - Non-commercial Groups,15.00
+492,wupa,Entrance - Education/Academic Groups,0.00
+493,wupa,Commercial Entrance - Sedan,28.00
+494,wupa,Commercial Entrance - Van,40.00
+495,wupa,Commercial Entrance - Motor Coach,100.00
+496,wupa,Commercial Entrance - Mini-bus,100.00
+497,yell,Entrance - Private Vehicle,35.00
+498,yell,Entrance - Non-commercial Groups,20.00
+499,yell,Entrance - Motorcycle,30.00
+500,yell,Entrance - Snowmobile,30.00
+501,yell,Entrance - Per Person,20.00
+502,yell,Commercial Entrance - Sedan,20.00
+503,yell,Commercial Entrance - Van,125.00
+504,yell,Commercial Entrance - Mini-bus,200.00
+505,yell,Commercial Entrance - Motor Coach,300.00
+506,york,Entrance - Per Person,15.00
+507,yose,Entrance - Private Vehicle,35.00
+508,yose,Entrance - Motorcycle,30.00
+509,yose,Entrance - Per Person,20.00
+510,yose,Commercial Entrance - Sedan,25.00
+511,yose,Commercial Entrance - Van,125.00
+512,yose,Commercial Entrance - Mini-bus,200.00
+513,yose,Commercial Entrance - Motor Coach,300.00
+514,yose,Entrance - Non-commercial Groups,20.00
+515,yose,Entrance - Education/Academic Groups,0.00
+516,yose,Commercial Entrance - Per Person,20.00
+517,yose,Timed Entry Reservation - Park,2.00
+518,yose,Timed Entry Reservation - Park,2.00
+519,yose,Timed Entry Reservation - Park,2.00
+520,zion,Entrance - Private Vehicle,35.00
+521,zion,Entrance - Motorcycle,30.00
+522,zion,Entrance - Snowmobile,20.00
+523,zion,Entrance - Per Person,20.00
+524,zion,Entrance - Non-commercial Groups,20.00
+525,zion,Commercial Entrance - Van,70.00
+526,zion,Commercial Entrance - Mini-bus,80.00
+527,zion,Commercial Entrance - Motor Coach,190.00
+528,zion,Commercial Entrance - Per Person,20.00

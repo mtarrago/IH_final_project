@@ -1,0 +1,770 @@
+,0,park_code_act
+0,Arts and Culture,acad
+1,Arts and Culture,arch
+2,Arts and Culture,care
+3,Arts and Culture,cuva
+4,Arts and Culture,glac
+5,Arts and Culture,grca
+6,Arts and Culture,grsm
+7,Arts and Culture,grte
+8,Arts and Culture,havo
+9,Arts and Culture,indu
+10,Arts and Culture,isro
+11,Arts and Culture,pefo
+12,Arts and Culture,sagu
+13,Arts and Culture,viis
+14,Arts and Culture,voya
+15,Arts and Culture,yell
+16,Arts and Culture,yose
+17,Arts and Culture,zion
+18,Astronomy,acad
+19,Astronomy,arch
+20,Astronomy,badl
+21,Astronomy,bibe
+22,Astronomy,brca
+23,Astronomy,cany
+24,Astronomy,care
+25,Astronomy,cave
+26,Astronomy,chis
+27,Astronomy,crla
+28,Astronomy,deva
+29,Astronomy,drto
+30,Astronomy,ever
+31,Astronomy,glac
+32,Astronomy,grba
+33,Astronomy,grca
+34,Astronomy,grsm
+35,Astronomy,indu
+36,Astronomy,isro
+37,Astronomy,jeff
+38,Astronomy,jotr
+39,Astronomy,kefj
+40,Astronomy,lavo
+41,Astronomy,maca
+42,Astronomy,meve
+43,Astronomy,mora
+44,Astronomy,olym
+45,Astronomy,pefo
+46,Astronomy,pinn
+47,Astronomy,sagu
+48,Astronomy,shen
+49,Astronomy,thro
+50,Astronomy,viis
+51,Astronomy,voya
+52,Astronomy,yell
+53,Astronomy,yose
+54,Astronomy,zion
+55,Auto and ATV,badl
+56,Auto and ATV,bibe
+57,Auto and ATV,crla
+58,Auto and ATV,ever
+59,Auto and ATV,glac
+60,Auto and ATV,grba
+61,Auto and ATV,grca
+62,Auto and ATV,grsm
+63,Auto and ATV,grte
+64,Auto and ATV,gumo
+65,Auto and ATV,hosp
+66,Auto and ATV,indu
+67,Auto and ATV,jotr
+68,Auto and ATV,lavo
+69,Auto and ATV,meve
+70,Auto and ATV,mora
+71,Auto and ATV,noca
+72,Auto and ATV,pefo
+73,Auto and ATV,romo
+74,Auto and ATV,sagu
+75,Auto and ATV,shen
+76,Auto and ATV,thro
+77,Auto and ATV,whsa
+78,Auto and ATV,wica
+79,Auto and ATV,yell
+80,Auto and ATV,yose
+81,Biking,acad
+82,Biking,arch
+83,Biking,badl
+84,Biking,bibe
+85,Biking,brca
+86,Biking,cany
+87,Biking,care
+88,Biking,crla
+89,Biking,cuva
+90,Biking,deva
+91,Biking,ever
+92,Biking,glac
+93,Biking,grba
+94,Biking,grca
+95,Biking,grsm
+96,Biking,grte
+97,Biking,havo
+98,Biking,hosp
+99,Biking,indu
+100,Biking,jeff
+101,Biking,jotr
+102,Biking,lavo
+103,Biking,maca
+104,Biking,meve
+105,Biking,mora
+106,Biking,noca
+107,Biking,olym
+108,Biking,pefo
+109,Biking,pinn
+110,Biking,sagu
+111,Biking,shen
+112,Biking,thro
+113,Biking,voya
+114,Biking,whsa
+115,Biking,wica
+116,Biking,yell
+117,Biking,yose
+118,Biking,zion
+119,Boating,acad
+120,Boating,bisc
+121,Boating,cany
+122,Boating,chis
+123,Boating,crla
+124,Boating,drto
+125,Boating,ever
+126,Boating,glac
+127,Boating,grca
+128,Boating,grte
+129,Boating,indu
+130,Boating,isro
+131,Boating,kefj
+132,Boating,kova
+133,Boating,lavo
+134,Boating,maca
+135,Boating,noca
+136,Boating,olym
+137,Boating,viis
+138,Boating,voya
+139,Boating,yell
+140,Boating,yose
+141,Camping,acad
+142,Camping,arch
+143,Camping,badl
+144,Camping,bibe
+145,Camping,bisc
+146,Camping,blca
+147,Camping,brca
+148,Camping,cany
+149,Camping,care
+150,Camping,cave
+151,Camping,chis
+152,Camping,cong
+153,Camping,crla
+154,Camping,deva
+155,Camping,drto
+156,Camping,ever
+157,Camping,glac
+158,Camping,grba
+159,Camping,grca
+160,Camping,grsm
+161,Camping,grte
+162,Camping,gumo
+163,Camping,hale
+164,Camping,havo
+165,Camping,hosp
+166,Camping,indu
+167,Camping,isro
+168,Camping,jotr
+169,Camping,kefj
+170,Camping,kova
+171,Camping,lavo
+172,Camping,maca
+173,Camping,meve
+174,Camping,mora
+175,Camping,noca
+176,Camping,olym
+177,Camping,pefo
+178,Camping,pinn
+179,Camping,romo
+180,Camping,sagu
+181,Camping,shen
+182,Camping,thro
+183,Camping,viis
+184,Camping,voya
+185,Camping,whsa
+186,Camping,wica
+187,Camping,yell
+188,Camping,yose
+189,Camping,zion
+190,Canyoneering,arch
+191,Canyoneering,care
+192,Canyoneering,deva
+193,Canyoneering,zion
+194,Caving,cave
+195,Caving,grba
+196,Caving,maca
+197,Caving,pinn
+198,Caving,wica
+199,Climbing,acad
+200,Climbing,arch
+201,Climbing,blca
+202,Climbing,cany
+203,Climbing,care
+204,Climbing,glac
+205,Climbing,grba
+206,Climbing,grte
+207,Climbing,jotr
+208,Climbing,kefj
+209,Climbing,mora
+210,Climbing,noca
+211,Climbing,olym
+212,Climbing,pinn
+213,Climbing,romo
+214,Climbing,shen
+215,Climbing,yose
+216,Climbing,zion
+217,Compass and GPS,acad
+218,Compass and GPS,badl
+219,Compass and GPS,chis
+220,Compass and GPS,crla
+221,Compass and GPS,ever
+222,Compass and GPS,lavo
+223,Compass and GPS,pefo
+224,Compass and GPS,shen
+225,Dog Sledding,kefj
+226,Fishing,acad
+227,Fishing,bisc
+228,Fishing,blca
+229,Fishing,care
+230,Fishing,chis
+231,Fishing,cong
+232,Fishing,crla
+233,Fishing,cuva
+234,Fishing,drto
+235,Fishing,ever
+236,Fishing,glac
+237,Fishing,grba
+238,Fishing,grca
+239,Fishing,grsm
+240,Fishing,grte
+241,Fishing,hosp
+242,Fishing,indu
+243,Fishing,isro
+244,Fishing,kefj
+245,Fishing,kova
+246,Fishing,lavo
+247,Fishing,maca
+248,Fishing,mora
+249,Fishing,noca
+250,Fishing,olym
+251,Fishing,romo
+252,Fishing,shen
+253,Fishing,viis
+254,Fishing,voya
+255,Fishing,yell
+256,Fishing,yose
+257,Flying,deva
+258,Flying,grca
+259,Flying,isro
+260,Flying,kefj
+261,Flying,kova
+262,Food,acad
+263,Food,badl
+264,Food,bibe
+265,Food,brca
+266,Food,care
+267,Food,cave
+268,Food,chis
+269,Food,cong
+270,Food,crla
+271,Food,cuva
+272,Food,deva
+273,Food,ever
+274,Food,glac
+275,Food,grba
+276,Food,grca
+277,Food,grsm
+278,Food,grte
+279,Food,hosp
+280,Food,indu
+281,Food,isro
+282,Food,jeff
+283,Food,jotr
+284,Food,kefj
+285,Food,lavo
+286,Food,maca
+287,Food,meve
+288,Food,mora
+289,Food,olym
+290,Food,pefo
+291,Food,pinn
+292,Food,shen
+293,Food,thro
+294,Food,viis
+295,Food,voya
+296,Food,whsa
+297,Food,wica
+298,Food,yell
+299,Food,yose
+300,Golfing,deva
+301,Guided Tours,acad
+302,Guided Tours,arch
+303,Guided Tours,bibe
+304,Guided Tours,bisc
+305,Guided Tours,brca
+306,Guided Tours,cany
+307,Guided Tours,care
+308,Guided Tours,cave
+309,Guided Tours,chis
+310,Guided Tours,cong
+311,Guided Tours,crla
+312,Guided Tours,deva
+313,Guided Tours,drto
+314,Guided Tours,ever
+315,Guided Tours,glac
+316,Guided Tours,grba
+317,Guided Tours,grca
+318,Guided Tours,grsm
+319,Guided Tours,grte
+320,Guided Tours,gumo
+321,Guided Tours,hale
+322,Guided Tours,havo
+323,Guided Tours,hosp
+324,Guided Tours,indu
+325,Guided Tours,isro
+326,Guided Tours,jeff
+327,Guided Tours,jotr
+328,Guided Tours,kefj
+329,Guided Tours,lavo
+330,Guided Tours,maca
+331,Guided Tours,meve
+332,Guided Tours,mora
+333,Guided Tours,noca
+334,Guided Tours,olym
+335,Guided Tours,pefo
+336,Guided Tours,sagu
+337,Guided Tours,thro
+338,Guided Tours,viis
+339,Guided Tours,voya
+340,Guided Tours,whsa
+341,Guided Tours,wica
+342,Guided Tours,yell
+343,Guided Tours,yose
+344,Guided Tours,zion
+345,Hands-On,acad
+346,Hands-On,brca
+347,Hands-On,care
+348,Hands-On,cong
+349,Hands-On,crla
+350,Hands-On,cuva
+351,Hands-On,drto
+352,Hands-On,ever
+353,Hands-On,glac
+354,Hands-On,grca
+355,Hands-On,grsm
+356,Hands-On,kova
+357,Hands-On,maca
+358,Hands-On,mora
+359,Hands-On,noca
+360,Hands-On,olym
+361,Hands-On,pefo
+362,Hands-On,pinn
+363,Hands-On,romo
+364,Hands-On,shen
+365,Hands-On,yell
+366,Hands-On,yose
+367,Hiking,acad
+368,Hiking,arch
+369,Hiking,badl
+370,Hiking,bibe
+371,Hiking,blca
+372,Hiking,brca
+373,Hiking,cany
+374,Hiking,care
+375,Hiking,cave
+376,Hiking,chis
+377,Hiking,cong
+378,Hiking,crla
+379,Hiking,cuva
+380,Hiking,deva
+381,Hiking,ever
+382,Hiking,glac
+383,Hiking,grba
+384,Hiking,grca
+385,Hiking,grsm
+386,Hiking,grte
+387,Hiking,gumo
+388,Hiking,hale
+389,Hiking,havo
+390,Hiking,hosp
+391,Hiking,indu
+392,Hiking,isro
+393,Hiking,jotr
+394,Hiking,kefj
+395,Hiking,kova
+396,Hiking,lavo
+397,Hiking,maca
+398,Hiking,meve
+399,Hiking,mora
+400,Hiking,noca
+401,Hiking,olym
+402,Hiking,pefo
+403,Hiking,pinn
+404,Hiking,romo
+405,Hiking,sagu
+406,Hiking,shen
+407,Hiking,thro
+408,Hiking,viis
+409,Hiking,voya
+410,Hiking,whsa
+411,Hiking,wica
+412,Hiking,yell
+413,Hiking,yose
+414,Hiking,zion
+415,Horse Trekking,acad
+416,Horse Trekking,arch
+417,Horse Trekking,badl
+418,Horse Trekking,blca
+419,Horse Trekking,brca
+420,Horse Trekking,cany
+421,Horse Trekking,care
+422,Horse Trekking,cuva
+423,Horse Trekking,deva
+424,Horse Trekking,glac
+425,Horse Trekking,grba
+426,Horse Trekking,grca
+427,Horse Trekking,grsm
+428,Horse Trekking,grte
+429,Horse Trekking,gumo
+430,Horse Trekking,indu
+431,Horse Trekking,jotr
+432,Horse Trekking,lavo
+433,Horse Trekking,maca
+434,Horse Trekking,noca
+435,Horse Trekking,olym
+436,Horse Trekking,pefo
+437,Horse Trekking,shen
+438,Horse Trekking,thro
+439,Horse Trekking,wica
+440,Horse Trekking,yell
+441,Horse Trekking,yose
+442,Hunting and Gathering,grba
+443,Hunting and Gathering,grte
+444,Hunting and Gathering,shen
+445,Ice Skating,acad
+446,Ice Skating,yose
+447,Junior Ranger Program,acad
+448,Junior Ranger Program,arch
+449,Junior Ranger Program,badl
+450,Junior Ranger Program,bibe
+451,Junior Ranger Program,bisc
+452,Junior Ranger Program,brca
+453,Junior Ranger Program,cany
+454,Junior Ranger Program,care
+455,Junior Ranger Program,cave
+456,Junior Ranger Program,chis
+457,Junior Ranger Program,cong
+458,Junior Ranger Program,crla
+459,Junior Ranger Program,cuva
+460,Junior Ranger Program,deva
+461,Junior Ranger Program,drto
+462,Junior Ranger Program,ever
+463,Junior Ranger Program,glac
+464,Junior Ranger Program,grba
+465,Junior Ranger Program,grca
+466,Junior Ranger Program,grsm
+467,Junior Ranger Program,grte
+468,Junior Ranger Program,gumo
+469,Junior Ranger Program,hale
+470,Junior Ranger Program,havo
+471,Junior Ranger Program,hosp
+472,Junior Ranger Program,indu
+473,Junior Ranger Program,isro
+474,Junior Ranger Program,jeff
+475,Junior Ranger Program,jotr
+476,Junior Ranger Program,kefj
+477,Junior Ranger Program,kova
+478,Junior Ranger Program,lavo
+479,Junior Ranger Program,maca
+480,Junior Ranger Program,meve
+481,Junior Ranger Program,mora
+482,Junior Ranger Program,noca
+483,Junior Ranger Program,olym
+484,Junior Ranger Program,pefo
+485,Junior Ranger Program,pinn
+486,Junior Ranger Program,romo
+487,Junior Ranger Program,sagu
+488,Junior Ranger Program,shen
+489,Junior Ranger Program,thro
+490,Junior Ranger Program,voya
+491,Junior Ranger Program,whsa
+492,Junior Ranger Program,wica
+493,Junior Ranger Program,yell
+494,Junior Ranger Program,yose
+495,Junior Ranger Program,zion
+496,Living History,care
+497,Living History,cuva
+498,Living History,deva
+499,Living History,lavo
+500,Living History,mora
+501,Living History,voya
+502,Living History,yose
+503,Museum Exhibits,bisc
+504,Museum Exhibits,brca
+505,Museum Exhibits,care
+506,Museum Exhibits,chis
+507,Museum Exhibits,cong
+508,Museum Exhibits,crla
+509,Museum Exhibits,deva
+510,Museum Exhibits,ever
+511,Museum Exhibits,grba
+512,Museum Exhibits,grca
+513,Museum Exhibits,grsm
+514,Museum Exhibits,gumo
+515,Museum Exhibits,havo
+516,Museum Exhibits,hosp
+517,Museum Exhibits,isro
+518,Museum Exhibits,jeff
+519,Museum Exhibits,jotr
+520,Museum Exhibits,kova
+521,Museum Exhibits,lavo
+522,Museum Exhibits,meve
+523,Museum Exhibits,mora
+524,Museum Exhibits,olym
+525,Museum Exhibits,pefo
+526,Museum Exhibits,shen
+527,Museum Exhibits,thro
+528,Museum Exhibits,voya
+529,Museum Exhibits,wica
+530,Museum Exhibits,yell
+531,Museum Exhibits,yose
+532,Museum Exhibits,zion
+533,Paddling,acad
+534,Paddling,bibe
+535,Paddling,bisc
+536,Paddling,blca
+537,Paddling,cany
+538,Paddling,chis
+539,Paddling,cong
+540,Paddling,cuva
+541,Paddling,drto
+542,Paddling,ever
+543,Paddling,glac
+544,Paddling,grca
+545,Paddling,grte
+546,Paddling,indu
+547,Paddling,isro
+548,Paddling,kefj
+549,Paddling,kova
+550,Paddling,lavo
+551,Paddling,maca
+552,Paddling,noca
+553,Paddling,olym
+554,Paddling,viis
+555,Paddling,voya
+556,Paddling,yell
+557,Paddling,yose
+558,Park Film,acad
+559,Park Film,badl
+560,Park Film,bibe
+561,Park Film,bisc
+562,Park Film,brca
+563,Park Film,cany
+564,Park Film,care
+565,Park Film,cave
+566,Park Film,chis
+567,Park Film,crla
+568,Park Film,deva
+569,Park Film,ever
+570,Park Film,glac
+571,Park Film,grba
+572,Park Film,grca
+573,Park Film,grsm
+574,Park Film,havo
+575,Park Film,hosp
+576,Park Film,indu
+577,Park Film,isro
+578,Park Film,jeff
+579,Park Film,kefj
+580,Park Film,lavo
+581,Park Film,maca
+582,Park Film,meve
+583,Park Film,mora
+584,Park Film,olym
+585,Park Film,pefo
+586,Park Film,pinn
+587,Park Film,sagu
+588,Park Film,thro
+589,Park Film,voya
+590,Park Film,wica
+591,Park Film,yell
+592,Park Film,yose
+593,Park Film,zion
+594,Playground,indu
+595,SCUBA Diving,bisc
+596,SCUBA Diving,chis
+597,SCUBA Diving,drto
+598,SCUBA Diving,isro
+599,SCUBA Diving,viis
+600,Shopping,acad
+601,Shopping,arch
+602,Shopping,badl
+603,Shopping,bibe
+604,Shopping,bisc
+605,Shopping,brca
+606,Shopping,cany
+607,Shopping,care
+608,Shopping,cave
+609,Shopping,chis
+610,Shopping,cong
+611,Shopping,crla
+612,Shopping,cuva
+613,Shopping,deva
+614,Shopping,drto
+615,Shopping,ever
+616,Shopping,glac
+617,Shopping,grba
+618,Shopping,grca
+619,Shopping,grsm
+620,Shopping,grte
+621,Shopping,hale
+622,Shopping,havo
+623,Shopping,hosp
+624,Shopping,indu
+625,Shopping,isro
+626,Shopping,jeff
+627,Shopping,jotr
+628,Shopping,kefj
+629,Shopping,kova
+630,Shopping,lavo
+631,Shopping,maca
+632,Shopping,meve
+633,Shopping,mora
+634,Shopping,noca
+635,Shopping,olym
+636,Shopping,pefo
+637,Shopping,pinn
+638,Shopping,romo
+639,Shopping,shen
+640,Shopping,thro
+641,Shopping,viis
+642,Shopping,voya
+643,Shopping,wica
+644,Shopping,yell
+645,Shopping,yose
+646,Shopping,zion
+647,Skiing,acad
+648,Skiing,blca
+649,Skiing,brca
+650,Skiing,crla
+651,Skiing,cuva
+652,Skiing,glac
+653,Skiing,grba
+654,Skiing,grte
+655,Skiing,indu
+656,Skiing,kefj
+657,Skiing,lavo
+658,Skiing,meve
+659,Skiing,mora
+660,Skiing,olym
+661,Skiing,romo
+662,Skiing,voya
+663,Skiing,yell
+664,Skiing,yose
+665,Snorkeling,bisc
+666,Snorkeling,chis
+667,Snorkeling,drto
+668,Snorkeling,viis
+669,Snow Play,acad
+670,Snow Play,crla
+671,Snow Play,cuva
+672,Snow Play,glac
+673,Snow Play,grte
+674,Snow Play,indu
+675,Snow Play,lavo
+676,Snow Play,mora
+677,Snow Play,olym
+678,Snow Play,romo
+679,Snow Play,yell
+680,Snow Play,yose
+681,Snowmobiling,acad
+682,Snowmobiling,crla
+683,Snowmobiling,grte
+684,Snowmobiling,kefj
+685,Snowmobiling,mora
+686,Snowmobiling,voya
+687,Snowmobiling,yell
+688,Snowshoeing,acad
+689,Snowshoeing,blca
+690,Snowshoeing,brca
+691,Snowshoeing,crla
+692,Snowshoeing,cuva
+693,Snowshoeing,glac
+694,Snowshoeing,grba
+695,Snowshoeing,grte
+696,Snowshoeing,indu
+697,Snowshoeing,kefj
+698,Snowshoeing,lavo
+699,Snowshoeing,meve
+700,Snowshoeing,mora
+701,Snowshoeing,olym
+702,Snowshoeing,romo
+703,Snowshoeing,voya
+704,Snowshoeing,yell
+705,Snowshoeing,yose
+706,Surfing,chis
+707,Surfing,olym
+708,Swimming,acad
+709,Swimming,bisc
+710,Swimming,chis
+711,Swimming,crla
+712,Swimming,drto
+713,Swimming,glac
+714,Swimming,hale
+715,Swimming,indu
+716,Swimming,lavo
+717,Swimming,olym
+718,Swimming,viis
+719,Swimming,voya
+720,Swimming,yell
+721,Swimming,yose
+722,Tubing,olym
+723,Tubing,voya
+724,Tubing,yose
+725,Water Skiing,grte
+726,Water Skiing,voya
+727,Wildlife Watching,acad
+728,Wildlife Watching,badl
+729,Wildlife Watching,bibe
+730,Wildlife Watching,bisc
+731,Wildlife Watching,blca
+732,Wildlife Watching,brca
+733,Wildlife Watching,care
+734,Wildlife Watching,cave
+735,Wildlife Watching,chis
+736,Wildlife Watching,crla
+737,Wildlife Watching,cuva
+738,Wildlife Watching,deva
+739,Wildlife Watching,drto
+740,Wildlife Watching,ever
+741,Wildlife Watching,grba
+742,Wildlife Watching,grca
+743,Wildlife Watching,grsm
+744,Wildlife Watching,grte
+745,Wildlife Watching,gumo
+746,Wildlife Watching,havo
+747,Wildlife Watching,hosp
+748,Wildlife Watching,indu
+749,Wildlife Watching,isro
+750,Wildlife Watching,jotr
+751,Wildlife Watching,kefj
+752,Wildlife Watching,kova
+753,Wildlife Watching,lavo
+754,Wildlife Watching,maca
+755,Wildlife Watching,meve
+756,Wildlife Watching,mora
+757,Wildlife Watching,olym
+758,Wildlife Watching,pefo
+759,Wildlife Watching,pinn
+760,Wildlife Watching,romo
+761,Wildlife Watching,shen
+762,Wildlife Watching,thro
+763,Wildlife Watching,viis
+764,Wildlife Watching,voya
+765,Wildlife Watching,wica
+766,Wildlife Watching,yell
+767,Wildlife Watching,yose
+768,Wildlife Watching,zion
