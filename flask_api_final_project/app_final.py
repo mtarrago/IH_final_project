@@ -33,10 +33,10 @@ def species(species_id):
                 s.species_id,
                 s.park_name,
                 s.Category,
-                s.Order,
+                s.sc_order,
                 s.Family,
                 s.scientific_name,
-                s.common_name
+                s.common_names
             FROM species s
             WHERE s.species_id=%s
         """, (species_id, ))
@@ -57,7 +57,7 @@ def all_species():
     page = int(request.args.get('page', 0))
     page_size = int(request.args.get('page_size', MAX_PAGE_SIZE))
     page_size = min(page_size, MAX_PAGE_SIZE)
-#    include_details = bool(int(request.args.get('include_details', 0)))
+    include_details = bool(int(request.args.get('include_details', 0)))
     db_conn = pymysql.connect(host="localhost", user="root", database="biodiversity",
                               password='Eatyourdinner0991',
                               cursorclass=pymysql.cursors.DictCursor)
@@ -67,10 +67,10 @@ def all_species():
                 s.species_id,
                 s.park_name,
                 s.Category,
-                s.Order,
+                s.sc_order,
                 s.Family,
                 s.scientific_name,
-                s.common_name
+                s.common_names
             FROM species s
             ORDER BY s.species_id
             LIMIT %s
@@ -125,8 +125,8 @@ def all_species():
     db_conn.close()    
     return {
         'species': species,
-        'next_page': f'/species?page={page+1}&page_size={page_size}',
-        'last_page': f'/species?page={last_page}&page_size={page_size}'
+        'next_page': f'/species?page={page+1}&page_size={page_size}&include_details={int(include_details)}',
+        'last_page': f'/species?page={last_page}&page_size={page_size}&include_details={int(include_details)}',
     }
 
 
@@ -135,3 +135,7 @@ def all_species():
 #        'next_page': f'/species?page={page+1}&page_size={page_size}}&include_details={int(include_details)}',
 #        'last_page': f'/species?page={last_page}&page_size={page_size}}&include_details={int(include_details)}',
 #    }
+
+#'species': species,
+#        'next_page': f'/species?page={page+1}&page_size={page_size}',
+#        'last_page': f'/species?page={last_page}&page_size={page_size}'
