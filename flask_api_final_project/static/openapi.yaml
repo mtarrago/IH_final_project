@@ -1,37 +1,34 @@
 openapi: 3.0.3
 info:
-  title: Bechdel dataset API
+  title: Species on the US National Parks API
   description: |-
-    This API exposes the Bechdel dataset. It is a mix of two data sources:
-    * The [Bechdel test dataset](https://bechdeltest.com): 
-    * A subset of the [IMDB datasets](https://developer.imdb.com/non-commercial-datasets/)
+    This API exposes a dataset on biodiversity in the US National Park. 
+    The original file was published by the National Park service on Kaggle.
     
-    The dataset contains around 10 000 movies (or TV show episodes), along with the people related to it (actors and actresses, film directors, etc.). Each movie is given a rating from 0 to 3 which corresponds to number of criteria that the movie fulfills.
+    Link to the original source of the dataset:
+    [Kaggle](https://www.kaggle.com/datasets/nationalparkservice/park-biodiversity)
+
+    The dataset contains entries on the species present on the US National Parks.
     
-    As a reminder, the Bechdel test, named after the American cartoonist Alison Bechdel, is a measure of the representation of women in a film (or other fiction). The tests asks whether the film:
-    1. Has at least two (named) women characters
-    2. Who talk to each other
-    3. About something other than a man.
-    
-    A given film passes the test if it fulfills these 3 criteria.
-    
-    More on this [on Wikipedia](https://en.wikipedia.org/wiki/Bechdel_test)
+    You can find additional information on:
+    * [US National Parks Service](https://www.nps.gov/index.htm)
+    * [Biodiversity on Wikipedia](https://en.wikipedia.org/wiki/Biodiversity)
   contact:
     email: ona.tarrago@gmail.com
   license:
-    name: CC BY-NC 3.0
-    url: https://creativecommons.org/licenses/by-nc/3.0/
+    name: CC BY 4.0 International
+    url: https://creativecommons.org/licenses/by/4.0/?ref=chooser-v1
   version: 1.0.0
 paths:
-  /movies/{movieId}:
+  /species/{species_id}:
     get:
-      summary: Get a movie by its ID
-      description: Return all the information about a movie including its Bechdel score.
+      summary: Get a species by its ID.
+      description: Return all the information on the species.
       parameters:
-        - name: movieId
+        - name: species_id
           in: path
-          description: ID of the movie
-          example: 17009710
+          description: ID of the species
+          example: ACAD-1000
           required: true
           schema:
             type: string
@@ -41,19 +38,19 @@ paths:
           content:
             application/json:
               schema:
-                $ref: '#/components/schemas/Movie'          
+                $ref: '#/components/schemas/species_id'          
         '404':
-          description: Movie not found
+          description: Species not found
         '401':
           description: Unauthorized
         '500':
           description: Internal server error
       security:
         - api_auth: []
-  /movies:
+  /species:
     get:
-      summary: Get all movies
-      description: Return all the information about a movie including its Bechdel score.
+      summary: Get all species
+      description: Return all the information about all the species.
       parameters:
         - name: page
           in: query
@@ -64,15 +61,15 @@ paths:
         - name: page_size
           in: query
           example: 100
-          description: Number of movies per page (used for pagination)
+          description: Number of species per page (used for pagination)
           schema:
             type: integer
-        - name: include_details
-          in: query
-          example: 0
-          description: Whether or not to include people and genres (0 or 1)
-          schema:
-            type: integer
+        # - name: include_details
+        #   in: query
+        #   example: 0
+        #   description: Whether or not to include people and genres (0 or 1)
+        #   schema:
+        #     type: integer
       responses:
         '200':
           description: OK
@@ -81,10 +78,10 @@ paths:
               schema:
                 type: object
                 properties:
-                  movies:
+                  species:
                     type: array
                     items:
-                      $ref: '#/components/schemas/Movie'
+                      $ref: '#/components/schemas/species'
                   next_page:
                     type: integer
                     example: 0
@@ -95,74 +92,19 @@ paths:
           description: Unauthorized
         '500':
           description: Internal server error
+    components:
+      schemas:
+        species:
+          type: object
+          properties:
+            id:
+              type: string
+              description: The unique identifier of the species
+          required:
+            - id
+      
       security:
-        - api_auth: []
-components:
-  schemas:
-    Person:
-      required:
-        - personId
-      type: object
-      properties:
-        personId:
-          type: integer
-          example: 2630323
-        birthYear:
-          type: integer
-          example: 1962
-        deathYear:
-          type: integer
-          example: 2015
-        name:
-          type: string
-          example: Justine Triet
-        role:
-          type: string
-          example: actress
-    Movie:
-      required:
-        - movieId
-      type: object
-      properties:
-        movieId:
-          type: integer
-          example: 17009710
-        originalTitle:
-          type: string
-          example: Anatomie d'une chute
-        englishTitle:
-          type: string
-          example: Anatomy of a Fall
-        bechdelScore:
-          type: integer
-          example: 3
-          description: The number of Bechdel criteria the movie meets (from 0 to 3).
-        bechdelTest:
-          type: boolean
-          example: true
-          description: Whether or not the movie passes the Bechdel test.
-        runtimeMinutes:
-          type: integer
-          example: 150
-        year:
-          type: integer
-          example: 2023
-        movieType:
-          type: string
-          example: movie
-        isAdult:
-          type: boolean
-          example: false
-        genres:
-          type: array
-          items:
-            type: string
-            example: ["Crime", "Drama", "Thriller"]
-        people:
-          type: array
-          items:
-            $ref: '#/components/schemas/Person'
-        
+        - api_auth: []          
   securitySchemes:
     api_auth:
       type: http

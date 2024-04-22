@@ -6,6 +6,13 @@ from flask_basicauth import BasicAuth
 from flask_swagger_ui import get_swaggerui_blueprint
 import pymysql
 
+#DOCS
+""" DUMMY FOR DOCS 
+maybe add a readme for the API
+JUST NEED TO CHANGE THE YAML FILE
+"""
+
+
 app = Flask(__name__)
 app.config.from_file("flask_config.json", load=json.load)
 auth = BasicAuth(app)
@@ -16,7 +23,7 @@ swaggerui_blueprint = get_swaggerui_blueprint(
 )
 app.register_blueprint(swaggerui_blueprint)
 
-MAX_PAGE_SIZE = 10
+MAX_PAGE_SIZE = 100
 
 def remove_null_fields(obj):
     return {k:v for k, v in obj.items() if v is not None}
