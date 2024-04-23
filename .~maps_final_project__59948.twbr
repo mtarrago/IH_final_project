@@ -309,8 +309,8 @@
         </view>
         <style>
           <style-rule element='axis'>
-            <encoding attr='space' class='0' field='[federated.0cdlst71lt6bko19hse2d0mgkbwd].[none:Longitude:qk]' field-type='quantitative' max='-5886692.1105578821' min='-18402877.602380943' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
-            <encoding attr='space' class='0' field='[federated.0cdlst71lt6bko19hse2d0mgkbwd].[none:Latitude:qk]' field-type='quantitative' max='12524270.986545449' min='1293995.0289006971' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
+            <encoding attr='space' class='0' field='[federated.0cdlst71lt6bko19hse2d0mgkbwd].[none:Longitude:qk]' field-type='quantitative' max='3096118.6875780486' min='-18865922.59479133' projection='EPSG:3857' range-type='fixed' scope='cols' type='space' />
+            <encoding attr='space' class='0' field='[federated.0cdlst71lt6bko19hse2d0mgkbwd].[none:Latitude:qk]' field-type='quantitative' max='13708091.099234756' min='-1799156.7348769642' projection='EPSG:3857' range-type='fixed' scope='rows' type='space' />
           </style-rule>
           <style-rule element='mark'>
             <encoding attr='size' field='[federated.0cdlst71lt6bko19hse2d0mgkbwd].[sum:Calculation_2699907986871406592:qk]' field-type='quantitative' max-size='1' min-size='0' type='quantsize' />
@@ -447,10 +447,10 @@
         </edge>
       </cards>
       <viewpoint>
-        <floating-toolbar-visibility value='2' />
+        <floating-toolbar-visibility value='1' />
         <geo-search-visibility value='1' />
         <map-scale-visibility value='0' />
-        <default-map-tool-selection tool='16' />
+        <default-map-tool-selection tool='1' />
         <default-map-unit-selection mapunit='1' />
       </viewpoint>
       <simple-id uuid='{5F6D5F93-3A63-4097-8BF2-1062E14CA801}' />

@@ -7,9 +7,10 @@ from flask_swagger_ui import get_swaggerui_blueprint
 import pymysql
 
 #DOCS
-""" DUMMY FOR DOCS 
-maybe add a readme for the API
-JUST NEED TO CHANGE THE YAML FILE
+""" The full documentation can be accessed at the /docs endpoint powered by Swagger. 
+    This API enables the access to a species dataset using 2 endpoints:
+        -  /species/<species_id> for a single species
+        - /species for a list of species (supports pagination)
 """
 
 
